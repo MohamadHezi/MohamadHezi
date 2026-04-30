@@ -20,5 +20,4 @@ Computer Science student at Carleton University entering my 4th year.
 * GitHub
 * HTML
 
-## Currently
 I'm building my skills through coursework, projects, and hands-on experience.
