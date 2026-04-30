@@ -1,16 +1,24 @@
-## Hi there 👋
+Computer Science student at Carleton University entering my 4th year.
 
-<!--
-**MohamadHezi/MohamadHezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
 
-Here are some ideas to get you started:
+* Software development
+* Databases
+* Cybersecurity
+* Technical problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+* Python
+* Java
+* C
+* C++
+* SQL
+* SQLite
+* PowerShell
+* Git
+* GitHub
+* HTML
+
+## Currently
+I'm building my skills through coursework, projects, and hands-on experience.
