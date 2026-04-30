@@ -11,6 +11,7 @@ Computer Science student at Carleton University entering my 4th year.
 
 * Python
 * Java
+* JavaScript
 * C
 * C++
 * SQL
