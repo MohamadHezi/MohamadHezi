@@ -40,7 +40,6 @@
 ### 🚀 Highlighted Projects
 
 * 🛠️ **Internship Tracker:** Full-stack tracking platform using React, TypeScript, Node.js, Express, PostgreSQL, and OpenAI.
-* 🎮 **Interactive / Engine Projects:** Designing custom UI systems, tilemaps, and 2D/3D game mechanics in Godot and Blender.
 
 ---
 
