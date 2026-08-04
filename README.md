@@ -8,7 +8,7 @@
 ### 💼 Experience & Background
 * 🏛️ **Former Junior Analyst** @ RCMP *(Summer 2025)*
 * 🛠️ **Hands-on Developer:** Blending computer science fundamentals with practical, real-world application design.
-
+* 🤖 **AI-Assisted Development:** Daily hands-on experience with Claude Code, using it as a pair-programming tool to drive architecture decisions, build a multi-repo production app end to end, and manage a real deployment pipeline (see Pagedge below).
 ---
 
 ### 💻 Tech Stack & Tools
@@ -34,6 +34,7 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
