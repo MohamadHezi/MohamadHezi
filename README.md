@@ -1,12 +1,12 @@
-# Hi there, I'm Mohamad 👋
+# I'm Mohamad 👋
 
 🎓 **Computer Science Student @ Carleton University** (Entering 4th Year)  
-💡 Interested in **Full-Stack Software**, **Interactive Systems**, **2D/3D Game Engines**, and **Hands-on Technical Integration**.
+💡 Interested in **Hands-on Technical Integration**, **Interactive Systems**, and **Full-Stack Software**.
 
 ---
 
 ### 💼 Experience & Background
-* 🏛️ **Former Junior Analyst Co-op** @ RCMP *(Summer 2025)*
+* 🏛️ **Former Junior Analyst** @ RCMP *(Summer 2025)*
 * 🛠️ **Hands-on Developer:** Blending computer science fundamentals with practical, real-world application design.
 
 ---
