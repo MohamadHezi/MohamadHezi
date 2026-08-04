@@ -40,7 +40,7 @@
 
 ### 🚀 Highlighted Projects
 * 📖 **[Pagedge](https://github.com/MohamadHezi/Pagedge):** Desktop PDF reader that turns highlights into a searchable knowledge base, with AI chat, semantic search, and a knowledge graph. Solo-built with Tauri, Rust, React, TypeScript, and a Next.js/Supabase/Stripe backend.
-* 🛠️ **Internship Tracker:** Full-stack tracking platform using React, TypeScript, Node.js, Express, PostgreSQL, and OpenAI.
+* 🛠️ **[Internship Tracker](https://github.com/MohamadHezi/internship-tracker):** Full-stack tracking platform using React, TypeScript, Node.js, Express, PostgreSQL, and OpenAI.
 
 ---
 
