@@ -1,6 +1,6 @@
 # I'm Mohamad 👋
 
-🎓 **Computer Science Student @ Carleton University** (Entering 4th Year)  
+🎓 **Computer Science Student @ Carleton University** (4th Year)  
 💡 Interested in **Hands-on Technical Integration**, **Cybersecurity**, **Interactive Systems**, and **Full-Stack Software**.
 
 ---
